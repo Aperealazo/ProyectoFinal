@@ -20,3 +20,6 @@
  * 1- Ctrl + Shift + P -> Para Clonar el repo. Aqui se coloca la url del repo
  * 2- Ctrl + ñ -> Abre la terminal del vs para poner los comandos.
  */
+//=======================================================
+// Ramas = para Probar cosas sin romper el proyecto entero
+//=======================================================
