@@ -29,3 +29,4 @@ git push -u origin nueva-rama # subirla
 git checkout main             # volver a main
 git branch                    # ver ramas
 .........................................................
+------------------
